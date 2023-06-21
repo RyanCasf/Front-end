@@ -1,9 +1,9 @@
 # Front-end
 Desenvolvimento do guia para construção de layout.
-<br />
 
 ## Parque Estadual Ilha Bela
-<p>Página estática em html com seções.</p>
+Página estática em html com seções. [código](https://github.com/RyanCasf/Front-end/blob/master/html/02-parque-estadual-ilha-velha)
+
 <img 
     width="100%"
     height="50%"
@@ -12,17 +12,12 @@ Desenvolvimento do guia para construção de layout.
     title="Página Parque Estadual Ilha Bela">
 
 ## Mais detalhes
-Para ver mais do conteúdas das páginas acesse o [sumário](DIRECTOY.md).
-
+Para ver mais do conteúdas das páginas acesse o [sumário](DIRECTORY.md).
 <hr />
-
 <pre>
 Realizador:
 ° RYAN CASTRO FERREIRA.
 <b>LinkedIn</b>- <a href="https://www.linkedin.com/in/ryan-castro-ferreira">https://www.linkedin.com/in/ryan-castro-ferreira/</a>
 <b>E-mail</b>- ryancasf@gmail.com
 </pre>
-
-<pre>
-FONTE: Guia Front-end DevMedia
-</pre>
+<pre>FONTE: Guia Front-end DevMedia</pre>
