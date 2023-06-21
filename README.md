@@ -5,11 +5,13 @@ Desenvolvimento do guia para construção de layout.
 ## Parque Estadual Ilha Bela
 <p>Página estática em html com seções.</p>
 <img 
-    width="50%"
+    width="100%"
     height="50%"
     src="imagemReadme/parque-estadual-ilha-bela.png" 
     alt="Página do parque estadual ilha bela" 
     title="Página Parque Estadual Ilha Bela">
+
+<hr />
 
 <pre>
 Realizador:
